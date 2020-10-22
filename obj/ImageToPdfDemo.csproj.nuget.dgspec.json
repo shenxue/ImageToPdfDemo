@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Demo\\ImageToPdfDemo\\ImageToPdfDemo.csproj": {}
+    "D:\\shirley\\1.ProdectDemo\\Demo\\ImageToPdfDemo\\ImageToPdfDemo.csproj": {}
   },
   "projects": {
-    "E:\\Demo\\ImageToPdfDemo\\ImageToPdfDemo.csproj": {
+    "D:\\shirley\\1.ProdectDemo\\Demo\\ImageToPdfDemo\\ImageToPdfDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demo\\ImageToPdfDemo\\ImageToPdfDemo.csproj",
+        "projectUniqueName": "D:\\shirley\\1.ProdectDemo\\Demo\\ImageToPdfDemo\\ImageToPdfDemo.csproj",
         "projectName": "ImageToPdfDemo",
-        "projectPath": "E:\\Demo\\ImageToPdfDemo\\ImageToPdfDemo.csproj",
-        "packagesPath": "C:\\Users\\EDZ\\.nuget\\packages\\",
-        "outputPath": "E:\\Demo\\ImageToPdfDemo\\obj\\",
+        "projectPath": "D:\\shirley\\1.ProdectDemo\\Demo\\ImageToPdfDemo\\ImageToPdfDemo.csproj",
+        "packagesPath": "C:\\Users\\candy\\.nuget\\packages\\",
+        "outputPath": "D:\\shirley\\1.ProdectDemo\\Demo\\ImageToPdfDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\candy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://10.228.1.8:8081/repository/nuget-hosted/": {},
-          "http://10.30.1.4:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
