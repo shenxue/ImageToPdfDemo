@@ -191,7 +191,6 @@ E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.Drawing.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\iTextSharp.LGPLv2.Core.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
-E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.csprojAssemblyReference.cache
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.csproj.CoreCompileInputs.cache
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.MvcApplicationPartsAssemblyInfo.cache
 D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
