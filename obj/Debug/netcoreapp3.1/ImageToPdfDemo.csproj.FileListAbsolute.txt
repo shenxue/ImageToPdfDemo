@@ -94,6 +94,10 @@ D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\zh-Hans\Mic
 D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.csproj.CoreCompileInputs.cache
 D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.Drawing.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\appsettings.json
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -103,6 +107,7 @@ E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ImageToPdfDemo.runtimeconfig.json
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ImageToPdfDemo.runtimeconfig.dev.json
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ImageToPdfDemo.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ImageToPdfDemo.pdb
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\iTextSharp.LGPLv2.Core.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
@@ -119,6 +124,11 @@ E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGe
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.Drawing.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
@@ -176,6 +186,8 @@ E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspa
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.csproj.CoreCompileInputs.cache
+E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.MvcApplicationPartsAssemblyInfo.cache
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.AssemblyInfoInputs.cache
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.AssemblyInfo.cs
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.RazorTargetAssemblyInfo.cache
@@ -185,15 +197,3 @@ E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\staticwebassets\ImageToPdfDemo.St
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.dll
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.pdb
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.genruntimeconfig.cache
-E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
-E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
-E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.Drawing.dll
-E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\iTextSharp.LGPLv2.Core.dll
-E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
-E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
-E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.csproj.CoreCompileInputs.cache
-E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.MvcApplicationPartsAssemblyInfo.cache
-D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
-D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
-D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
-D:\shirley\1.ProdectDemo\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.Drawing.dll

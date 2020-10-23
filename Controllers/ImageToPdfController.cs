@@ -24,15 +24,17 @@ namespace ImageToPdfDemo.Controllers
         [HttpGet("test")]
         public string ImageToPdf()
         {
-            string imagePath = @"D:\pics\1.jpeg";
-            string pdfPath = @"D:\pics\11.pdf";
+            //string imagePath = @"D:\pics\1.jpeg";
+            //string pdfPath = @"D:\pics\11.pdf";‘
+            string imagePath = @"C:\Users\EDZ\Desktop\2.jpeg";
+            string pdfPath = @"C:\Users\EDZ\Desktop\2.pdf";
             IImageFormat format = null;
             var imagesTemle = SixLabors.ImageSharp.Image.Load(imagePath, out format);
             using (var stream = new MemoryStream())
             {
                 imagesTemle.Save(stream, format);
                 stream.Flush();
-                BytesToPdf3(stream.ToArray(), pdfPath);
+                BytesToPdf2(stream.ToArray(), pdfPath);
             }
 
             //ImageToPdf(imagePath, pdfPath);
@@ -102,9 +104,9 @@ namespace ImageToPdfDemo.Controllers
 
                 page.Size = PdfSharpCore.PageSize.A4;
                 PdfSharpCore.Drawing.XImage img = PdfSharpCore.Drawing.XImage.FromStream(() => new MemoryStream(bytes));
-               
+
                 PdfSharpCore.Drawing.XGraphics g = PdfSharpCore.Drawing.XGraphics.FromPdfPage(page);//实例化XGraphics对象，并以刚才的pdf页面作为画布将后续的DrawImage、DrawString作用到画布上（画到画布上）
-                g.DrawImage(img, 0, 0);//将图片画到画布上
+                g.DrawImage(img, 10, 10);//将图片画到画布上
                 doc.Save(pdfPath);//将pdf文件保存到保存对话框获取到的路径上
             }
 
