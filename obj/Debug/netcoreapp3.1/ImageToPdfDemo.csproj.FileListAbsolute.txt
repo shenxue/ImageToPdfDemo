@@ -186,6 +186,7 @@ E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspa
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.csprojAssemblyReference.cache
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.csproj.CoreCompileInputs.cache
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.MvcApplicationPartsAssemblyInfo.cache
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.AssemblyInfoInputs.cache
