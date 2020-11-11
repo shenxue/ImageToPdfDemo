@@ -43,6 +43,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "ImageMagickSharp": {
+              "target": "Package",
+              "version": "[1.0.0.20, )"
+            },
+            "Magick.NET-Q16-AnyCPU": {
+              "target": "Package",
+              "version": "[7.22.1, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.4, )"
@@ -55,9 +63,17 @@
               "target": "Package",
               "version": "[1.0.0-beta0010, )"
             },
-            "iTextSharp.LGPLv2.Core": {
+            "Spire.PDF.NETCore": {
               "target": "Package",
-              "version": "[1.6.1, )"
+              "version": "[6.11.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.2, )"
             }
           },
           "imports": [

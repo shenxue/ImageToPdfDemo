@@ -107,7 +107,6 @@ E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ImageToPdfDemo.runtimeconfig.json
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ImageToPdfDemo.runtimeconfig.dev.json
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ImageToPdfDemo.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ImageToPdfDemo.pdb
-E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\iTextSharp.LGPLv2.Core.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
@@ -187,8 +186,6 @@ E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspa
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.csprojAssemblyReference.cache
-E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.csproj.CoreCompileInputs.cache
-E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.MvcApplicationPartsAssemblyInfo.cache
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.AssemblyInfoInputs.cache
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.AssemblyInfo.cs
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.RazorTargetAssemblyInfo.cache
@@ -198,3 +195,16 @@ E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\staticwebassets\ImageToPdfDemo.St
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.dll
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.pdb
 E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.genruntimeconfig.cache
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\itextsharp.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\ImageMagickSharp.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Magick.NET-Q16-AnyCPU.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Magick.NET.Core.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Magick.Native-Q16-x64.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Magick.Native-Q16-x86.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Spire.License.dll
+E:\Demo\ImageToPdfDemo\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
+E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.csproj.CoreCompileInputs.cache
+E:\Demo\ImageToPdfDemo\obj\Debug\netcoreapp3.1\ImageToPdfDemo.MvcApplicationPartsAssemblyInfo.cache
