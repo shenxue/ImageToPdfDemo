@@ -26,11 +26,10 @@ namespace ImageToPdfDemo.Controllers
             string pdfPath = @"C:\Users\EDZ\Desktop\1601455012549.pdf";
             Spire.Pdf.PdfDocument doc = new Spire.Pdf.PdfDocument();
             doc.LoadFromFile(pdfPath);//pdf物理路径
-                                      //doc.SaveToFile(@"C:\Users\Administrator\Desktop\高效Web前端框架Layui教程.doc", FileFormat.DOC);//生成word的物理路径
+            //doc.SaveToFile(@"C:\Users\Administrator\Desktop\高效Web前端框架Layui教程.doc", FileFormat.DOC);//生成word的物理路径
 
             doc.SaveToFile(@"C:\Users\EDZ\Desktop\1.docx", FileFormat.DOCX);
             Console.WriteLine("转换成功");
-
             return;
 
             ExtractImage(pdfPath);
